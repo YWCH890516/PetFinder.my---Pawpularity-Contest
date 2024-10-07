@@ -46,5 +46,4 @@ We use the PetFinder.my dataset provided by Kaggle, applying **Swin Transformer*
 6. **Model Evaluation**:
    - The performance of the model is evaluated using Root Mean Squared Error (RMSE) for each fold during cross-validation. The mean RMSE across all folds is reported.
 
-## Results
-- After 10-fold cross-validation, the final model achieved an average RMSE of:
+
